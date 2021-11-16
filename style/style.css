@@ -294,7 +294,7 @@
 
 .fame{
     object-fit:cover;
-    padding-top: 4px;
+    margin-top: 0.2rem;
     margin-left: 5px;
     width: 8vw;
     height: 14vh;
