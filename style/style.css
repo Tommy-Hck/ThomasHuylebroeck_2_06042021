@@ -297,7 +297,7 @@
     padding-top: 7px;
     margin-left: 7px;
     width: 8vw;
-    height: 13vh;
+    height: 13.5vh;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
 }
@@ -305,7 +305,7 @@
 .images{
     display: flex;
     width: 22vw;
-    height: 14.5vh;
+    height: 15vh;
     background-color: white;
     border-radius: 20px;
     box-shadow: 4px 4px 6px #c9c9c9;
