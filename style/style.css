@@ -247,8 +247,8 @@
 }
 
 .content{
-    width: 18.5vw;
-    height:max-content;
+    width: 18.8vw;
+    height: 22vh;
     background-color: white;
     border-radius: 20px;
     box-shadow: 2px 2px 6px #c9c9c9;
@@ -305,7 +305,7 @@
 .images{
     display: flex;
     width: 22vw;
-    height: 14vh;
+    height: 14.5vh;
     background-color: white;
     border-radius: 20px;
     box-shadow: 4px 4px 6px #c9c9c9;
@@ -322,7 +322,7 @@
 }
 
 .etoile{
-    margin-top: 5vh;
+    margin-top: 2.8vh;
 }
 
 #nav-pop{
