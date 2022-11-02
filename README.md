@@ -1,5 +1,3 @@
-# ThomasHuylebroeck_2_06042021
-
 *Openclassrooms project 2*
 
 Web developer :Thomas Huylebroeck
