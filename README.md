@@ -1,6 +1,6 @@
 <h1>Openclassrooms project 2</h1>
 
-Web developer :Thomas Huylebroeck
+Web developer : Thomas Huylebroeck
 
 <h2>Reservia</h2>
 
