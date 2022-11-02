@@ -1,8 +1,8 @@
-*Openclassrooms project 2*
+<h1>Openclassrooms project 2</h1>
 
 Web developer :Thomas Huylebroeck
 
-<h1>Reservia</h1>
+<h2>Reservia</h2>
 
   Deuxième projet du parcours développeur web chez OpenClassrooms : "Transformez une maquette en site Web"
 
